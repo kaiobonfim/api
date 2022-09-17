@@ -1,0 +1,6 @@
+[ ] Manage users access and authorization;
+[ ] Integrate with front-end;
+[ ] File download/upload;
+[ ] Documentation;
+[ ] Improve jwt validation;
+[ ] Implement OAuth2 authentication;
